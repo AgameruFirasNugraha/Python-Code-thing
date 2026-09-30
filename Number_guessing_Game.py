@@ -33,9 +33,3 @@ while True:
         print(f"\nBOOM!!! You Got It! the secret number was {secret_number}")
         print(f"It took you {attempts} attempts to win!")
         break
-    
-
-
-
-
-
